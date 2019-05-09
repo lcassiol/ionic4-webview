@@ -1,0 +1,7 @@
+{
+  "name": "lcassiol-ionicWebview",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
